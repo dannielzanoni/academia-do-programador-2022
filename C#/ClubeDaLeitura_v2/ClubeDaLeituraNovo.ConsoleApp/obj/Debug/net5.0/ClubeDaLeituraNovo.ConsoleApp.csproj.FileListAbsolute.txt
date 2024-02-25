@@ -1,0 +1,16 @@
+C:\Users\danie\Desktop\novoclub\ClubeDaLeituraNovo\ClubeDaLeituraNovo\ClubeDaLeituraNovo.ConsoleApp\bin\Debug\net5.0\ClubeDaLeituraNovo.ConsoleApp.exe
+C:\Users\danie\Desktop\novoclub\ClubeDaLeituraNovo\ClubeDaLeituraNovo\ClubeDaLeituraNovo.ConsoleApp\bin\Debug\net5.0\ClubeDaLeituraNovo.ConsoleApp.deps.json
+C:\Users\danie\Desktop\novoclub\ClubeDaLeituraNovo\ClubeDaLeituraNovo\ClubeDaLeituraNovo.ConsoleApp\bin\Debug\net5.0\ClubeDaLeituraNovo.ConsoleApp.runtimeconfig.json
+C:\Users\danie\Desktop\novoclub\ClubeDaLeituraNovo\ClubeDaLeituraNovo\ClubeDaLeituraNovo.ConsoleApp\bin\Debug\net5.0\ClubeDaLeituraNovo.ConsoleApp.runtimeconfig.dev.json
+C:\Users\danie\Desktop\novoclub\ClubeDaLeituraNovo\ClubeDaLeituraNovo\ClubeDaLeituraNovo.ConsoleApp\bin\Debug\net5.0\ClubeDaLeituraNovo.ConsoleApp.dll
+C:\Users\danie\Desktop\novoclub\ClubeDaLeituraNovo\ClubeDaLeituraNovo\ClubeDaLeituraNovo.ConsoleApp\bin\Debug\net5.0\ClubeDaLeituraNovo.ConsoleApp.pdb
+C:\Users\danie\Desktop\novoclub\ClubeDaLeituraNovo\ClubeDaLeituraNovo\ClubeDaLeituraNovo.ConsoleApp\obj\Debug\net5.0\ClubeDaLeituraNovo.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\novoclub\ClubeDaLeituraNovo\ClubeDaLeituraNovo\ClubeDaLeituraNovo.ConsoleApp\obj\Debug\net5.0\ClubeDaLeituraNovo.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\novoclub\ClubeDaLeituraNovo\ClubeDaLeituraNovo\ClubeDaLeituraNovo.ConsoleApp\obj\Debug\net5.0\ClubeDaLeituraNovo.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\novoclub\ClubeDaLeituraNovo\ClubeDaLeituraNovo\ClubeDaLeituraNovo.ConsoleApp\obj\Debug\net5.0\ClubeDaLeituraNovo.ConsoleApp.AssemblyInfo.cs
+C:\Users\danie\Desktop\novoclub\ClubeDaLeituraNovo\ClubeDaLeituraNovo\ClubeDaLeituraNovo.ConsoleApp\obj\Debug\net5.0\ClubeDaLeituraNovo.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\novoclub\ClubeDaLeituraNovo\ClubeDaLeituraNovo\ClubeDaLeituraNovo.ConsoleApp\obj\Debug\net5.0\ClubeDaLeituraNovo.ConsoleApp.dll
+C:\Users\danie\Desktop\novoclub\ClubeDaLeituraNovo\ClubeDaLeituraNovo\ClubeDaLeituraNovo.ConsoleApp\obj\Debug\net5.0\refint\ClubeDaLeituraNovo.ConsoleApp.dll
+C:\Users\danie\Desktop\novoclub\ClubeDaLeituraNovo\ClubeDaLeituraNovo\ClubeDaLeituraNovo.ConsoleApp\obj\Debug\net5.0\ClubeDaLeituraNovo.ConsoleApp.pdb
+C:\Users\danie\Desktop\novoclub\ClubeDaLeituraNovo\ClubeDaLeituraNovo\ClubeDaLeituraNovo.ConsoleApp\obj\Debug\net5.0\ClubeDaLeituraNovo.ConsoleApp.genruntimeconfig.cache
+C:\Users\danie\Desktop\novoclub\ClubeDaLeituraNovo\ClubeDaLeituraNovo\ClubeDaLeituraNovo.ConsoleApp\obj\Debug\net5.0\ref\ClubeDaLeituraNovo.ConsoleApp.dll
