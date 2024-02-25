@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "432fdfc8-608d-409d-9a9d-664a8767fcbd": {
+      "ProjectGuid": "432fdfc8-608d-409d-9a9d-664a8767fcbd",
+      "DisplayName": "Calculadora.ConsoleApp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a72e3ba2-42c2-4256-b020-e62d81ad8e90": {
+      "ProjectGuid": "a72e3ba2-42c2-4256-b020-e62d81ad8e90",
+      "DisplayName": "Exercicio02.ConsoleApp",
+      "ColorIndex": 1
+    },
+    "df117309-6579-4c8e-a10f-3e6b7ba3707c": {
+      "ProjectGuid": "df117309-6579-4c8e-a10f-3e6b7ba3707c",
+      "DisplayName": "Exercicio01.ConsoleApp",
+      "ColorIndex": 2
+    },
+    "8df8ff8f-d237-44af-a35c-6f6f1c9d5c83": {
+      "ProjectGuid": "8df8ff8f-d237-44af-a35c-6f6f1c9d5c83",
+      "DisplayName": "Exercicio03.ConsoleApp",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
