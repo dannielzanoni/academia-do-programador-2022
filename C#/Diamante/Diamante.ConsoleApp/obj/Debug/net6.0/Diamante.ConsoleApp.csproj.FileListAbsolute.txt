@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\Diamante\Diamante.ConsoleApp\bin\Debug\net6.0\Diamante.ConsoleApp.exe
+C:\Users\danie\source\repos\Diamante\Diamante.ConsoleApp\bin\Debug\net6.0\Diamante.ConsoleApp.deps.json
+C:\Users\danie\source\repos\Diamante\Diamante.ConsoleApp\bin\Debug\net6.0\Diamante.ConsoleApp.runtimeconfig.json
+C:\Users\danie\source\repos\Diamante\Diamante.ConsoleApp\bin\Debug\net6.0\Diamante.ConsoleApp.dll
+C:\Users\danie\source\repos\Diamante\Diamante.ConsoleApp\bin\Debug\net6.0\ref\Diamante.ConsoleApp.dll
+C:\Users\danie\source\repos\Diamante\Diamante.ConsoleApp\bin\Debug\net6.0\Diamante.ConsoleApp.pdb
+C:\Users\danie\source\repos\Diamante\Diamante.ConsoleApp\obj\Debug\net6.0\Diamante.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Diamante\Diamante.ConsoleApp\obj\Debug\net6.0\Diamante.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Diamante\Diamante.ConsoleApp\obj\Debug\net6.0\Diamante.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Diamante\Diamante.ConsoleApp\obj\Debug\net6.0\Diamante.ConsoleApp.AssemblyInfo.cs
+C:\Users\danie\source\repos\Diamante\Diamante.ConsoleApp\obj\Debug\net6.0\Diamante.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Diamante\Diamante.ConsoleApp\obj\Debug\net6.0\Diamante.ConsoleApp.dll
+C:\Users\danie\source\repos\Diamante\Diamante.ConsoleApp\obj\Debug\net6.0\ref\Diamante.ConsoleApp.dll
+C:\Users\danie\source\repos\Diamante\Diamante.ConsoleApp\obj\Debug\net6.0\Diamante.ConsoleApp.pdb
+C:\Users\danie\source\repos\Diamante\Diamante.ConsoleApp\obj\Debug\net6.0\Diamante.ConsoleApp.genruntimeconfig.cache

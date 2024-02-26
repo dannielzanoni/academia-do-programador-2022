@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AmCaUYhY5zlZtzGu48Fm3yz227xmKtVqR7WVMgU9lnSL/XhvLrEFQa63d5ifkqDebjhlpcFRbD3OPyikh4K5BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Git rec\\C#\\GeradorTestePDF\\TestesPDF.WinApp\\TestesPDF.WinApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\fluentvalidation\\11.0.1\\fluentvalidation.11.0.1.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

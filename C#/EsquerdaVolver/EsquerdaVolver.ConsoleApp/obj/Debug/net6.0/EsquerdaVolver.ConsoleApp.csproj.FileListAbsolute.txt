@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\EsquerdaVolver\EsquerdaVolver.ConsoleApp\bin\Debug\net6.0\EsquerdaVolver.ConsoleApp.exe
+C:\Users\danie\source\repos\EsquerdaVolver\EsquerdaVolver.ConsoleApp\bin\Debug\net6.0\EsquerdaVolver.ConsoleApp.deps.json
+C:\Users\danie\source\repos\EsquerdaVolver\EsquerdaVolver.ConsoleApp\bin\Debug\net6.0\EsquerdaVolver.ConsoleApp.runtimeconfig.json
+C:\Users\danie\source\repos\EsquerdaVolver\EsquerdaVolver.ConsoleApp\bin\Debug\net6.0\EsquerdaVolver.ConsoleApp.dll
+C:\Users\danie\source\repos\EsquerdaVolver\EsquerdaVolver.ConsoleApp\bin\Debug\net6.0\ref\EsquerdaVolver.ConsoleApp.dll
+C:\Users\danie\source\repos\EsquerdaVolver\EsquerdaVolver.ConsoleApp\bin\Debug\net6.0\EsquerdaVolver.ConsoleApp.pdb
+C:\Users\danie\source\repos\EsquerdaVolver\EsquerdaVolver.ConsoleApp\obj\Debug\net6.0\EsquerdaVolver.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\EsquerdaVolver\EsquerdaVolver.ConsoleApp\obj\Debug\net6.0\EsquerdaVolver.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\EsquerdaVolver\EsquerdaVolver.ConsoleApp\obj\Debug\net6.0\EsquerdaVolver.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\EsquerdaVolver\EsquerdaVolver.ConsoleApp\obj\Debug\net6.0\EsquerdaVolver.ConsoleApp.AssemblyInfo.cs
+C:\Users\danie\source\repos\EsquerdaVolver\EsquerdaVolver.ConsoleApp\obj\Debug\net6.0\EsquerdaVolver.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\EsquerdaVolver\EsquerdaVolver.ConsoleApp\obj\Debug\net6.0\EsquerdaVolver.ConsoleApp.dll
+C:\Users\danie\source\repos\EsquerdaVolver\EsquerdaVolver.ConsoleApp\obj\Debug\net6.0\ref\EsquerdaVolver.ConsoleApp.dll
+C:\Users\danie\source\repos\EsquerdaVolver\EsquerdaVolver.ConsoleApp\obj\Debug\net6.0\EsquerdaVolver.ConsoleApp.pdb
+C:\Users\danie\source\repos\EsquerdaVolver\EsquerdaVolver.ConsoleApp\obj\Debug\net6.0\EsquerdaVolver.ConsoleApp.genruntimeconfig.cache

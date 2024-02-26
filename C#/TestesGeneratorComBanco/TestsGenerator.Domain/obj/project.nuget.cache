@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yC7VYRIPwKEAyMGD2qstbeSOXqwfmm9GW7/Z6Ojiv69iNvV6S35MVujN3vQRNu55cFL/rb0LxyqpNufCNdQ3+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Git rec\\C#\\TestesGeneratorComBanco\\TestsGenerator.Domain\\TestsGenerator.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\fluentvalidation\\11.0.1\\fluentvalidation.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

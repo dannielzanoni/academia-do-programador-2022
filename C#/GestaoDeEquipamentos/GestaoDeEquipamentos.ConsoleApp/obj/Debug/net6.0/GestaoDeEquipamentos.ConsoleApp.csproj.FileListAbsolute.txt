@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\bin\Debug\net6.0\GestaoDeEquipamentos.ConsoleApp.exe
+C:\Users\danie\source\repos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\bin\Debug\net6.0\GestaoDeEquipamentos.ConsoleApp.deps.json
+C:\Users\danie\source\repos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\bin\Debug\net6.0\GestaoDeEquipamentos.ConsoleApp.runtimeconfig.json
+C:\Users\danie\source\repos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\bin\Debug\net6.0\GestaoDeEquipamentos.ConsoleApp.dll
+C:\Users\danie\source\repos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\bin\Debug\net6.0\ref\GestaoDeEquipamentos.ConsoleApp.dll
+C:\Users\danie\source\repos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\bin\Debug\net6.0\GestaoDeEquipamentos.ConsoleApp.pdb
+C:\Users\danie\source\repos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net6.0\GestaoDeEquipamentos.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net6.0\GestaoDeEquipamentos.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net6.0\GestaoDeEquipamentos.ConsoleApp.AssemblyInfo.cs
+C:\Users\danie\source\repos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net6.0\GestaoDeEquipamentos.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net6.0\GestaoDeEquipamentos.ConsoleApp.dll
+C:\Users\danie\source\repos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net6.0\ref\GestaoDeEquipamentos.ConsoleApp.dll
+C:\Users\danie\source\repos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net6.0\GestaoDeEquipamentos.ConsoleApp.pdb
+C:\Users\danie\source\repos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net6.0\GestaoDeEquipamentos.ConsoleApp.genruntimeconfig.cache
+C:\Users\danie\source\repos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net6.0\GestaoDeEquipamentos.ConsoleApp.csproj.AssemblyReference.cache

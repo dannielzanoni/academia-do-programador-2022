@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\InterpretadorDeNumeros\InterpretadorDeNumeros.ConsoleApp\bin\Debug\net6.0\InterpretadorDeNumeros.ConsoleApp.exe
+C:\Users\danie\source\repos\InterpretadorDeNumeros\InterpretadorDeNumeros.ConsoleApp\bin\Debug\net6.0\InterpretadorDeNumeros.ConsoleApp.deps.json
+C:\Users\danie\source\repos\InterpretadorDeNumeros\InterpretadorDeNumeros.ConsoleApp\bin\Debug\net6.0\InterpretadorDeNumeros.ConsoleApp.runtimeconfig.json
+C:\Users\danie\source\repos\InterpretadorDeNumeros\InterpretadorDeNumeros.ConsoleApp\bin\Debug\net6.0\InterpretadorDeNumeros.ConsoleApp.dll
+C:\Users\danie\source\repos\InterpretadorDeNumeros\InterpretadorDeNumeros.ConsoleApp\bin\Debug\net6.0\ref\InterpretadorDeNumeros.ConsoleApp.dll
+C:\Users\danie\source\repos\InterpretadorDeNumeros\InterpretadorDeNumeros.ConsoleApp\bin\Debug\net6.0\InterpretadorDeNumeros.ConsoleApp.pdb
+C:\Users\danie\source\repos\InterpretadorDeNumeros\InterpretadorDeNumeros.ConsoleApp\obj\Debug\net6.0\InterpretadorDeNumeros.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\InterpretadorDeNumeros\InterpretadorDeNumeros.ConsoleApp\obj\Debug\net6.0\InterpretadorDeNumeros.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\InterpretadorDeNumeros\InterpretadorDeNumeros.ConsoleApp\obj\Debug\net6.0\InterpretadorDeNumeros.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\InterpretadorDeNumeros\InterpretadorDeNumeros.ConsoleApp\obj\Debug\net6.0\InterpretadorDeNumeros.ConsoleApp.AssemblyInfo.cs
+C:\Users\danie\source\repos\InterpretadorDeNumeros\InterpretadorDeNumeros.ConsoleApp\obj\Debug\net6.0\InterpretadorDeNumeros.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\InterpretadorDeNumeros\InterpretadorDeNumeros.ConsoleApp\obj\Debug\net6.0\InterpretadorDeNumeros.ConsoleApp.dll
+C:\Users\danie\source\repos\InterpretadorDeNumeros\InterpretadorDeNumeros.ConsoleApp\obj\Debug\net6.0\ref\InterpretadorDeNumeros.ConsoleApp.dll
+C:\Users\danie\source\repos\InterpretadorDeNumeros\InterpretadorDeNumeros.ConsoleApp\obj\Debug\net6.0\InterpretadorDeNumeros.ConsoleApp.pdb
+C:\Users\danie\source\repos\InterpretadorDeNumeros\InterpretadorDeNumeros.ConsoleApp\obj\Debug\net6.0\InterpretadorDeNumeros.ConsoleApp.genruntimeconfig.cache

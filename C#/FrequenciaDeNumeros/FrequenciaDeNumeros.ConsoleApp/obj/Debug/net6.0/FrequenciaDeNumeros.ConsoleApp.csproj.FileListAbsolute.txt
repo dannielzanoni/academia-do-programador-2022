@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\FrequenciaDeNumeros\FrequenciaDeNumeros.ConsoleApp\bin\Debug\net6.0\FrequenciaDeNumeros.ConsoleApp.exe
+C:\Users\danie\source\repos\FrequenciaDeNumeros\FrequenciaDeNumeros.ConsoleApp\bin\Debug\net6.0\FrequenciaDeNumeros.ConsoleApp.deps.json
+C:\Users\danie\source\repos\FrequenciaDeNumeros\FrequenciaDeNumeros.ConsoleApp\bin\Debug\net6.0\FrequenciaDeNumeros.ConsoleApp.runtimeconfig.json
+C:\Users\danie\source\repos\FrequenciaDeNumeros\FrequenciaDeNumeros.ConsoleApp\bin\Debug\net6.0\FrequenciaDeNumeros.ConsoleApp.dll
+C:\Users\danie\source\repos\FrequenciaDeNumeros\FrequenciaDeNumeros.ConsoleApp\bin\Debug\net6.0\ref\FrequenciaDeNumeros.ConsoleApp.dll
+C:\Users\danie\source\repos\FrequenciaDeNumeros\FrequenciaDeNumeros.ConsoleApp\bin\Debug\net6.0\FrequenciaDeNumeros.ConsoleApp.pdb
+C:\Users\danie\source\repos\FrequenciaDeNumeros\FrequenciaDeNumeros.ConsoleApp\obj\Debug\net6.0\FrequenciaDeNumeros.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\FrequenciaDeNumeros\FrequenciaDeNumeros.ConsoleApp\obj\Debug\net6.0\FrequenciaDeNumeros.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\FrequenciaDeNumeros\FrequenciaDeNumeros.ConsoleApp\obj\Debug\net6.0\FrequenciaDeNumeros.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\FrequenciaDeNumeros\FrequenciaDeNumeros.ConsoleApp\obj\Debug\net6.0\FrequenciaDeNumeros.ConsoleApp.AssemblyInfo.cs
+C:\Users\danie\source\repos\FrequenciaDeNumeros\FrequenciaDeNumeros.ConsoleApp\obj\Debug\net6.0\FrequenciaDeNumeros.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\FrequenciaDeNumeros\FrequenciaDeNumeros.ConsoleApp\obj\Debug\net6.0\FrequenciaDeNumeros.ConsoleApp.dll
+C:\Users\danie\source\repos\FrequenciaDeNumeros\FrequenciaDeNumeros.ConsoleApp\obj\Debug\net6.0\ref\FrequenciaDeNumeros.ConsoleApp.dll
+C:\Users\danie\source\repos\FrequenciaDeNumeros\FrequenciaDeNumeros.ConsoleApp\obj\Debug\net6.0\FrequenciaDeNumeros.ConsoleApp.pdb
+C:\Users\danie\source\repos\FrequenciaDeNumeros\FrequenciaDeNumeros.ConsoleApp\obj\Debug\net6.0\FrequenciaDeNumeros.ConsoleApp.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+C:\Users\danie\source\repos\Exercicio_02\Exercicio_02.ConsoleApp\bin\Debug\net6.0\Exercicio_02.ConsoleApp.exe
+C:\Users\danie\source\repos\Exercicio_02\Exercicio_02.ConsoleApp\bin\Debug\net6.0\Exercicio_02.ConsoleApp.deps.json
+C:\Users\danie\source\repos\Exercicio_02\Exercicio_02.ConsoleApp\bin\Debug\net6.0\Exercicio_02.ConsoleApp.runtimeconfig.json
+C:\Users\danie\source\repos\Exercicio_02\Exercicio_02.ConsoleApp\bin\Debug\net6.0\Exercicio_02.ConsoleApp.dll
+C:\Users\danie\source\repos\Exercicio_02\Exercicio_02.ConsoleApp\bin\Debug\net6.0\ref\Exercicio_02.ConsoleApp.dll
+C:\Users\danie\source\repos\Exercicio_02\Exercicio_02.ConsoleApp\bin\Debug\net6.0\Exercicio_02.ConsoleApp.pdb
+C:\Users\danie\source\repos\Exercicio_02\Exercicio_02.ConsoleApp\obj\Debug\net6.0\Exercicio_02.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Exercicio_02\Exercicio_02.ConsoleApp\obj\Debug\net6.0\Exercicio_02.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Exercicio_02\Exercicio_02.ConsoleApp\obj\Debug\net6.0\Exercicio_02.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Exercicio_02\Exercicio_02.ConsoleApp\obj\Debug\net6.0\Exercicio_02.ConsoleApp.AssemblyInfo.cs
+C:\Users\danie\source\repos\Exercicio_02\Exercicio_02.ConsoleApp\obj\Debug\net6.0\Exercicio_02.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Exercicio_02\Exercicio_02.ConsoleApp\obj\Debug\net6.0\Exercicio_02.ConsoleApp.dll
+C:\Users\danie\source\repos\Exercicio_02\Exercicio_02.ConsoleApp\obj\Debug\net6.0\ref\Exercicio_02.ConsoleApp.dll
+C:\Users\danie\source\repos\Exercicio_02\Exercicio_02.ConsoleApp\obj\Debug\net6.0\Exercicio_02.ConsoleApp.pdb
+C:\Users\danie\source\repos\Exercicio_02\Exercicio_02.ConsoleApp\obj\Debug\net6.0\Exercicio_02.ConsoleApp.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Academia do Programador 2022\ListaDeExercicios01\Exercicio_02\Exercicio_02.ConsoleApp\bin\Debug\net6.0\Exercicio_02.ConsoleApp.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Academia do Programador 2022\ListaDeExercicios01\Exercicio_02\Exercicio_02.ConsoleApp\bin\Debug\net6.0\Exercicio_02.ConsoleApp.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Academia do Programador 2022\ListaDeExercicios01\Exercicio_02\Exercicio_02.ConsoleApp\bin\Debug\net6.0\Exercicio_02.ConsoleApp.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Academia do Programador 2022\ListaDeExercicios01\Exercicio_02\Exercicio_02.ConsoleApp\bin\Debug\net6.0\Exercicio_02.ConsoleApp.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Academia do Programador 2022\ListaDeExercicios01\Exercicio_02\Exercicio_02.ConsoleApp\bin\Debug\net6.0\Exercicio_02.ConsoleApp.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Academia do Programador 2022\ListaDeExercicios01\Exercicio_02\Exercicio_02.ConsoleApp\obj\Debug\net6.0\Exercicio_02.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Academia do Programador 2022\ListaDeExercicios01\Exercicio_02\Exercicio_02.ConsoleApp\obj\Debug\net6.0\Exercicio_02.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Academia do Programador 2022\ListaDeExercicios01\Exercicio_02\Exercicio_02.ConsoleApp\obj\Debug\net6.0\Exercicio_02.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Academia do Programador 2022\ListaDeExercicios01\Exercicio_02\Exercicio_02.ConsoleApp\obj\Debug\net6.0\Exercicio_02.ConsoleApp.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Academia do Programador 2022\ListaDeExercicios01\Exercicio_02\Exercicio_02.ConsoleApp\obj\Debug\net6.0\Exercicio_02.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Academia do Programador 2022\ListaDeExercicios01\Exercicio_02\Exercicio_02.ConsoleApp\obj\Debug\net6.0\Exercicio_02.ConsoleApp.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Academia do Programador 2022\ListaDeExercicios01\Exercicio_02\Exercicio_02.ConsoleApp\obj\Debug\net6.0\refint\Exercicio_02.ConsoleApp.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Academia do Programador 2022\ListaDeExercicios01\Exercicio_02\Exercicio_02.ConsoleApp\obj\Debug\net6.0\Exercicio_02.ConsoleApp.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Academia do Programador 2022\ListaDeExercicios01\Exercicio_02\Exercicio_02.ConsoleApp\obj\Debug\net6.0\Exercicio_02.ConsoleApp.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Academia do Programador 2022\ListaDeExercicios01\Exercicio_02\Exercicio_02.ConsoleApp\obj\Debug\net6.0\ref\Exercicio_02.ConsoleApp.dll

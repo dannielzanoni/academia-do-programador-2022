@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\bin\Debug\net6.0\ProgramacaoEstruturada.ConsoleApp.exe
+C:\Users\danie\source\repos\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\bin\Debug\net6.0\ProgramacaoEstruturada.ConsoleApp.deps.json
+C:\Users\danie\source\repos\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\bin\Debug\net6.0\ProgramacaoEstruturada.ConsoleApp.runtimeconfig.json
+C:\Users\danie\source\repos\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\bin\Debug\net6.0\ProgramacaoEstruturada.ConsoleApp.dll
+C:\Users\danie\source\repos\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\bin\Debug\net6.0\ref\ProgramacaoEstruturada.ConsoleApp.dll
+C:\Users\danie\source\repos\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\bin\Debug\net6.0\ProgramacaoEstruturada.ConsoleApp.pdb
+C:\Users\danie\source\repos\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\obj\Debug\net6.0\ProgramacaoEstruturada.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\obj\Debug\net6.0\ProgramacaoEstruturada.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\obj\Debug\net6.0\ProgramacaoEstruturada.ConsoleApp.AssemblyInfo.cs
+C:\Users\danie\source\repos\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\obj\Debug\net6.0\ProgramacaoEstruturada.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\obj\Debug\net6.0\ProgramacaoEstruturada.ConsoleApp.dll
+C:\Users\danie\source\repos\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\obj\Debug\net6.0\ref\ProgramacaoEstruturada.ConsoleApp.dll
+C:\Users\danie\source\repos\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\obj\Debug\net6.0\ProgramacaoEstruturada.ConsoleApp.pdb
+C:\Users\danie\source\repos\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\obj\Debug\net6.0\ProgramacaoEstruturada.ConsoleApp.genruntimeconfig.cache
+C:\Users\danie\source\repos\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\obj\Debug\net6.0\ProgramacaoEstruturada.ConsoleApp.csproj.AssemblyReference.cache

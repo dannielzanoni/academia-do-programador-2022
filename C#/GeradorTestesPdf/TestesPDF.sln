@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesPDF.WinApp", "TestesPDF.WinApp\TestesPDF.WinApp.csproj", "{4B4EC5E9-8CE0-41BB-B644-93F0B095E16C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Apresentação", "1 - Apresentação", "{2538BEE7-A5D8-4B8F-9458-08C532791CE5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Dominio", "2 - Dominio", "{E48923D4-AE17-43C8-B946-E8F053DB2783}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infra", "3 - Infra", "{EE628E49-1CA1-4EA1-9F03-B7054A083BDA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arquivos", "Arquivos", "{6ABDAB78-F0DD-4E16-9D1F-AB08FF520232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesPDF.Infra.Arquivos", "TestesPDF.Infra.Arquivos\TestesPDF.Infra.Arquivos.csproj", "{DA98C50D-504E-4263-B5A8-6AF05F946B2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesPDF.Dominio", "TestesPDF.Dominio\TestesPDF.Dominio.csproj", "{3A1911FF-7C1C-4DD1-8C6C-28860B8B57A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B4EC5E9-8CE0-41BB-B644-93F0B095E16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4EC5E9-8CE0-41BB-B644-93F0B095E16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4EC5E9-8CE0-41BB-B644-93F0B095E16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4EC5E9-8CE0-41BB-B644-93F0B095E16C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA98C50D-504E-4263-B5A8-6AF05F946B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA98C50D-504E-4263-B5A8-6AF05F946B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA98C50D-504E-4263-B5A8-6AF05F946B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA98C50D-504E-4263-B5A8-6AF05F946B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A1911FF-7C1C-4DD1-8C6C-28860B8B57A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A1911FF-7C1C-4DD1-8C6C-28860B8B57A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A1911FF-7C1C-4DD1-8C6C-28860B8B57A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A1911FF-7C1C-4DD1-8C6C-28860B8B57A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4B4EC5E9-8CE0-41BB-B644-93F0B095E16C} = {2538BEE7-A5D8-4B8F-9458-08C532791CE5}
+		{6ABDAB78-F0DD-4E16-9D1F-AB08FF520232} = {EE628E49-1CA1-4EA1-9F03-B7054A083BDA}
+		{DA98C50D-504E-4263-B5A8-6AF05F946B2A} = {6ABDAB78-F0DD-4E16-9D1F-AB08FF520232}
+		{3A1911FF-7C1C-4DD1-8C6C-28860B8B57A8} = {E48923D4-AE17-43C8-B946-E8F053DB2783}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E46401B-673B-4DAC-90C0-EC75D77BE38C}
+	EndGlobalSection
+EndGlobal

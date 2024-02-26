@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\Triangulos\Triangulos.ConsoleApp\bin\Debug\net6.0\Triangulos.ConsoleApp.exe
+C:\Users\danie\source\repos\Triangulos\Triangulos.ConsoleApp\bin\Debug\net6.0\Triangulos.ConsoleApp.deps.json
+C:\Users\danie\source\repos\Triangulos\Triangulos.ConsoleApp\bin\Debug\net6.0\Triangulos.ConsoleApp.runtimeconfig.json
+C:\Users\danie\source\repos\Triangulos\Triangulos.ConsoleApp\bin\Debug\net6.0\Triangulos.ConsoleApp.dll
+C:\Users\danie\source\repos\Triangulos\Triangulos.ConsoleApp\bin\Debug\net6.0\ref\Triangulos.ConsoleApp.dll
+C:\Users\danie\source\repos\Triangulos\Triangulos.ConsoleApp\bin\Debug\net6.0\Triangulos.ConsoleApp.pdb
+C:\Users\danie\source\repos\Triangulos\Triangulos.ConsoleApp\obj\Debug\net6.0\Triangulos.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Triangulos\Triangulos.ConsoleApp\obj\Debug\net6.0\Triangulos.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Triangulos\Triangulos.ConsoleApp\obj\Debug\net6.0\Triangulos.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Triangulos\Triangulos.ConsoleApp\obj\Debug\net6.0\Triangulos.ConsoleApp.AssemblyInfo.cs
+C:\Users\danie\source\repos\Triangulos\Triangulos.ConsoleApp\obj\Debug\net6.0\Triangulos.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Triangulos\Triangulos.ConsoleApp\obj\Debug\net6.0\Triangulos.ConsoleApp.dll
+C:\Users\danie\source\repos\Triangulos\Triangulos.ConsoleApp\obj\Debug\net6.0\ref\Triangulos.ConsoleApp.dll
+C:\Users\danie\source\repos\Triangulos\Triangulos.ConsoleApp\obj\Debug\net6.0\Triangulos.ConsoleApp.pdb
+C:\Users\danie\source\repos\Triangulos\Triangulos.ConsoleApp\obj\Debug\net6.0\Triangulos.ConsoleApp.genruntimeconfig.cache

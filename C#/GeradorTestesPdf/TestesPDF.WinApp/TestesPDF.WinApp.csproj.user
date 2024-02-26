@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ModuloMateria\TabelaMateriasControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ModuloMateria\TelaCadastroMateriaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuloQuestao\TabelaQuestoesControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ModuloQuestao\TelaCadastroQuestoesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaPrincipalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuloDisciplina\TabelaDisciplinasControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ModuloDisciplina\TelaCadastroDisciplinaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

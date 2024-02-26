@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\Tupiniquim\Tupiniquim.ConsoleApp\bin\Debug\net6.0\Tupiniquim.ConsoleApp.exe
+C:\Users\danie\source\repos\Tupiniquim\Tupiniquim.ConsoleApp\bin\Debug\net6.0\Tupiniquim.ConsoleApp.deps.json
+C:\Users\danie\source\repos\Tupiniquim\Tupiniquim.ConsoleApp\bin\Debug\net6.0\Tupiniquim.ConsoleApp.runtimeconfig.json
+C:\Users\danie\source\repos\Tupiniquim\Tupiniquim.ConsoleApp\bin\Debug\net6.0\Tupiniquim.ConsoleApp.dll
+C:\Users\danie\source\repos\Tupiniquim\Tupiniquim.ConsoleApp\bin\Debug\net6.0\ref\Tupiniquim.ConsoleApp.dll
+C:\Users\danie\source\repos\Tupiniquim\Tupiniquim.ConsoleApp\bin\Debug\net6.0\Tupiniquim.ConsoleApp.pdb
+C:\Users\danie\source\repos\Tupiniquim\Tupiniquim.ConsoleApp\obj\Debug\net6.0\Tupiniquim.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Tupiniquim\Tupiniquim.ConsoleApp\obj\Debug\net6.0\Tupiniquim.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Tupiniquim\Tupiniquim.ConsoleApp\obj\Debug\net6.0\Tupiniquim.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Tupiniquim\Tupiniquim.ConsoleApp\obj\Debug\net6.0\Tupiniquim.ConsoleApp.AssemblyInfo.cs
+C:\Users\danie\source\repos\Tupiniquim\Tupiniquim.ConsoleApp\obj\Debug\net6.0\Tupiniquim.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Tupiniquim\Tupiniquim.ConsoleApp\obj\Debug\net6.0\Tupiniquim.ConsoleApp.dll
+C:\Users\danie\source\repos\Tupiniquim\Tupiniquim.ConsoleApp\obj\Debug\net6.0\ref\Tupiniquim.ConsoleApp.dll
+C:\Users\danie\source\repos\Tupiniquim\Tupiniquim.ConsoleApp\obj\Debug\net6.0\Tupiniquim.ConsoleApp.pdb
+C:\Users\danie\source\repos\Tupiniquim\Tupiniquim.ConsoleApp\obj\Debug\net6.0\Tupiniquim.ConsoleApp.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "50e3b594-2014-494e-a3ad-52fd4d60b15f": {
+      "ProjectGuid": "50e3b594-2014-494e-a3ad-52fd4d60b15f",
+      "DisplayName": "ClubeDaLeitura.ConsoleApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

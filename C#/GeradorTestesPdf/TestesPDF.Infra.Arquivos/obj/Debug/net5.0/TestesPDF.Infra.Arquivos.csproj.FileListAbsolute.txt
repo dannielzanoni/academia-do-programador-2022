@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\TestesPDF\TestesPDF.Infra.Arquivos\bin\Debug\net5.0\TestesPDF.Infra.Arquivos.deps.json
+C:\Users\danie\source\repos\TestesPDF\TestesPDF.Infra.Arquivos\bin\Debug\net5.0\TestesPDF.Infra.Arquivos.dll
+C:\Users\danie\source\repos\TestesPDF\TestesPDF.Infra.Arquivos\bin\Debug\net5.0\TestesPDF.Infra.Arquivos.pdb
+C:\Users\danie\source\repos\TestesPDF\TestesPDF.Infra.Arquivos\bin\Debug\net5.0\TestesPDF.Dominio.dll
+C:\Users\danie\source\repos\TestesPDF\TestesPDF.Infra.Arquivos\bin\Debug\net5.0\TestesPDF.Dominio.pdb
+C:\Users\danie\source\repos\TestesPDF\TestesPDF.Infra.Arquivos\obj\Debug\net5.0\TestesPDF.Infra.Arquivos.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\TestesPDF\TestesPDF.Infra.Arquivos\obj\Debug\net5.0\TestesPDF.Infra.Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\TestesPDF\TestesPDF.Infra.Arquivos\obj\Debug\net5.0\TestesPDF.Infra.Arquivos.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\TestesPDF\TestesPDF.Infra.Arquivos\obj\Debug\net5.0\TestesPDF.Infra.Arquivos.AssemblyInfo.cs
+C:\Users\danie\source\repos\TestesPDF\TestesPDF.Infra.Arquivos\obj\Debug\net5.0\TestesPDF.Infra.Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\TestesPDF\TestesPDF.Infra.Arquivos\obj\Debug\net5.0\TestesPDF.Infra.Arquivos.csproj.CopyComplete
+C:\Users\danie\source\repos\TestesPDF\TestesPDF.Infra.Arquivos\obj\Debug\net5.0\TestesPDF.Infra.Arquivos.dll
+C:\Users\danie\source\repos\TestesPDF\TestesPDF.Infra.Arquivos\obj\Debug\net5.0\refint\TestesPDF.Infra.Arquivos.dll
+C:\Users\danie\source\repos\TestesPDF\TestesPDF.Infra.Arquivos\obj\Debug\net5.0\TestesPDF.Infra.Arquivos.pdb
+C:\Users\danie\source\repos\TestesPDF\TestesPDF.Infra.Arquivos\obj\Debug\net5.0\ref\TestesPDF.Infra.Arquivos.dll
