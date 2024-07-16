@@ -6,7 +6,7 @@ Você pode checar neste link abaixo sobre a empresa:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/academiadoprogramador/)
 
-![App Screenshot](https://media.licdn.com/dms/image/C4D1BAQHMavApcnqrxw/company-background_10000/0/1638796563040/academiadoprogramador_cover?e=1720749600&v=beta&t=OJxjgejd0QkOUtfEv3Qk8Ni4GVvv2SQszVe7NiHWAMY)
+![App Screenshot](https://media.licdn.com/dms/image/C4D1BAQHMavApcnqrxw/company-background_10000/0/1638796563040/academiadoprogramador_cover?e=1721775600&v=beta&t=O14FdFseYAiPFoMsXKdXLcfTF0p3kCBm9Uh673N7pmE)
 
 ## Linguagens / Frameworks
 
